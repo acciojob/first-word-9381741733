@@ -10,7 +10,7 @@ function firstWord(str) {
         return str;
     }
     
-    // Otherwise, return the substring up to the first space
+    // Otherwise, return the substring up to the first spac
     return str.substring(0, spaceIndex);
 }
 
